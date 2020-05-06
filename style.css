@@ -1,0 +1,39 @@
+#mainOne {
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+align-items: center;
+}
+
+
+div{
+ padding:5px;
+ text-transform:capitalize;
+ flex-basis:23%;
+}
+
+h3{
+    text-transform:capitalize;
+    margin-top:0px;
+    margin-bottom:8px;
+}
+p{
+    text-transform:none;
+}
+section{
+    
+    padding:5px;
+ text-transform:capitalize;
+ flex-basis:23%;
+ justify-content:center;
+
+ padding-bottom:25px;
+ 
+}
+img{
+    padding-left:10px;
+border-bottom-left-radius: 75%;
+border-bottom-right-radius: 35%;
+border-top-left-radius: 35%;
+border-top-right-radius: 75%;
+}
